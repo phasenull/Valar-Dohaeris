@@ -1,0 +1,15 @@
+{
+  "name": "valar-dohaeris",
+  "version": "1.0.0",
+  "description": "School computer management system for educational purposes only",
+  "main": "src/index.js",
+  "scripts": {
+	"start": "node dist/bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phasenull",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
